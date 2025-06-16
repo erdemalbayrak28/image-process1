@@ -1,1 +1,2 @@
-# image-process1
+Erdem Albayrak B2180.060054 
+Hocam merhaba sizin attıığınız fotoğraflarda ben çok denedim ama hep hata verdi o yüzden png dönüştürdüm fotoğrafları. mnt data formatında yükledim fotoğrafları aksilik oldu diye koda. Sizde çalışmazsa mnt data silip öyle deneyebilirsiniz. Cv2 şeklinde importladım o da çalışmazsa import cv2 as opencv şeklinde deneyin onun dışında pip install opencv gene klasik kütüphane kullandım
